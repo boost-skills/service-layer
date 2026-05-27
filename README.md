@@ -22,14 +22,6 @@ This repository contains a set of skills for AI agents that help produce higher-
 - `dal-hexagonal` - strict Hexagonal (Ports & Adapters) DAL approach.  
   [Open README](dal-hexagonal/README.md)
 
-- `data-access-layer-repo-query-dto` - extended DAL version: Repository + Query + DTO.  
-  [Open README](data-access-layer-repo-query-dto/README.md)
-
-- `data-access-layer-eloquent-first` - extended DAL version: Eloquent-first.  
-  [Open README](data-access-layer-eloquent-first/README.md)
-
-- `data-access-layer-hexagonal` - extended DAL version: Hexagonal.  
-  [Open README](data-access-layer-hexagonal/README.md)
 
 ## DAL skill selection tips
 
